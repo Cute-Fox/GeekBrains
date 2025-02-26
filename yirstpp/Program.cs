@@ -27,5 +27,13 @@ class Program
                 index++;
             }
         }
+
+        // Выводим результат
+        Console.WriteLine("Результат:");
+        foreach (string s in resultArray)
+        {
+            Console.Write(s + " ");
+        }
+        Console.WriteLine();
     }
 }
