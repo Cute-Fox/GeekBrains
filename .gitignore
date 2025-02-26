@@ -1,0 +1,9 @@
+# Ignore build output
+bin/
+obj/
+
+# Other files you might want to ignore
+*.user
+*.suo
+*.swp
+*.DS_Store
